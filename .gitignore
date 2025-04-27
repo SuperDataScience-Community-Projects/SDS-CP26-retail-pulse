@@ -8,3 +8,6 @@ venv/
 .venv/
 env/
 ENV/
+
+# Folders
+.idea/
